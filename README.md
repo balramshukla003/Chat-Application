@@ -5,12 +5,19 @@ A modern chat application built with **React** (frontend) and **Node.js + Expres
 
 
 **Chat Room Dashboard**
+
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220348.png) 
 
+
+
 **Registeration Page**
+
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220425.png) 
 
+
+
 **Login Page**
+
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220406.png) 
 
 ---
