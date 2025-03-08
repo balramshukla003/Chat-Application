@@ -3,8 +3,14 @@
 A modern chat application built with **React** (frontend) and **Node.js + Express** (backend), using **MySQL** for database storage. Designed to provide seamless communication, with real-time features (via **Socket.IO**) and user experience enhancements in progress. 🚀
 (working-on-it)
 
+
+**Chat Room Dashboard**
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220348.png) 
+
+**Registeration Page**
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220425.png) 
+
+**Login Page**
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220406.png) 
 
 ---
