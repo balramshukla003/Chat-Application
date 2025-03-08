@@ -4,6 +4,8 @@ A modern chat application built with **React** (frontend) and **Node.js + Expres
 (working-on-it)
 
 ![Demo Preview](./screenshots/Screenshot%202025-03-08%20220348.png) 
+![Demo Preview](./screenshots/Screenshot%202025-03-08%20220425.png) 
+![Demo Preview](./screenshots/Screenshot%202025-03-08%20220406.png) 
 
 ---
 
